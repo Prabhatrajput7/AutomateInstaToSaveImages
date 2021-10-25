@@ -44,4 +44,5 @@ for img in images:
     c += 1
 
 print('All Done')
+driver.close()
 
